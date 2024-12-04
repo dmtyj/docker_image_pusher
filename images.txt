@@ -1,1 +1,1 @@
-mobtitude/vpn-pptp
+mmontagna/docker-vpn-pptp
