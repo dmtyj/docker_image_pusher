@@ -1,1 +1,1 @@
-sysadmln/l2tp_without_ipsec
+portainer/portainer-ce
