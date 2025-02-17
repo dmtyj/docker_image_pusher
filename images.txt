@@ -1,1 +1,1 @@
-chatgpt-wecom
+golang:1.19
