@@ -1,1 +1,1 @@
-zhayujie/chatgpt-on-wechat
+chatgpt-wecom:0.1.1
